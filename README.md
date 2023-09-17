@@ -6,7 +6,7 @@
 
 The Spotify Music Recommendation Model utilizes advanced machine learning algorithms to deliver tailored music recommendations. It considers user preferences, genre-based suggestions, and song popularity to enhance music discovery. The model's interactive interface ensures a personalized and engaging Spotify experience.
 
-To get the full working project, click on below link :-
+To get the full working project, click on the link :-
 https://drive.google.com/file/d/1551erFlMDidOnkRw-UFikzNiuQXBTyIA/view?usp=sharing
 
 or 
