@@ -9,6 +9,10 @@ The Spotify Music Recommendation Model utilizes advanced machine learning algori
 To get the full working project, click on below link :-
 https://drive.google.com/file/d/1551erFlMDidOnkRw-UFikzNiuQXBTyIA/view?usp=sharing
 
+or 
+select the **MASTER** for the code explanation.
+
+
 **Frontend :-**
 
 ![Screenshot (188)](https://github.com/Tanay600/Spotify-Music-Recommendation-System/assets/114192101/0f10477d-4425-4cf3-9c37-4f45aeaa9b37)
