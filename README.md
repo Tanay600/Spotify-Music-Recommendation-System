@@ -33,17 +33,45 @@ Dark Mode is also available :-
 **Technologies Used:**
 
 1 Python: The primary programming language for building the recommendation model and server.
+
+
 2 Django: A high-level Python web framework used for developing the backend server.
+
+
 3 Scikit-learn: An open-source machine learning library for building and training recommendation models.
+
+
 4 Pandas: A data manipulation library for handling and processing the music dataset.
+
+
 5 Joblib: Used for saving and loading machine learning models.
+
+
 6 HTML/CSS: For creating the user-friendly web interface.
+
+
 7 Django Templating Engine: To dynamically generate HTML content.
+
+
 8 Git: Version control for collaborative development.
+
+
 9 Jupyter Notebook: For exploratory data analysis and model development.
+
+
 10 Scipy: For handling sparse matrices when encoding categorical data.
+
+
 11 Heroku: A cloud platform for deploying and hosting the application.
+
+
 12 SQLite: A lightweight database management system for storing user data.
+
+
 13 Matplotlib: For creating data visualizations and plots during data analysis.
+
+
 14 NumPy: For numerical operations and array manipulations.
+
+
 15 VS Code: Integrated development environment for coding and debugging.
