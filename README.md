@@ -1,6 +1,7 @@
 # Spotify-Music-Recommendation-System
 
-![Spotify_App_Logo svg](https://github.com/Tanay600/Spotify-Music-Recommendation-System/assets/114192101/d959c762-eee0-412d-a4e3-2020c17701cd)
+![spotify](https://github.com/Tanay600/Spotify-Music-Recommendation-System/assets/114192101/d75d32e8-5b22-4289-bf80-859a47938850)
+
 
 
 The Spotify Music Recommendation Model utilizes advanced machine learning algorithms to deliver tailored music recommendations. It considers user preferences, genre-based suggestions, and song popularity to enhance music discovery. The model's interactive interface ensures a personalized and engaging Spotify experience.
