@@ -10,7 +10,7 @@ To get the full working project, click on below link :-
 https://drive.google.com/file/d/1551erFlMDidOnkRw-UFikzNiuQXBTyIA/view?usp=sharing
 
 or 
-select the **MASTER** for the code explanation.
+select the **MASTER** in **branches** option for the code explanation.
 
 
 **Frontend :-**
